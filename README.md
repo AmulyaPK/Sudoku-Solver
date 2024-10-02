@@ -12,9 +12,9 @@ Hint and Solution: Players can opt to view the solution at any point if they get
 
 ## How to Play
 1. Select Difficulty Level: Choose the difficulty level by entering a number between 1 and 3:
-    1 -> for Easy
-    2 -> for Medium
-    3 -> for Hard
+    - 1 = Easy
+    - 2 = Medium
+    - 3 = Hard
 2. Game Options:
     Choose 1 to start playing the game.
     Choose 2 to view the solution without playing.
