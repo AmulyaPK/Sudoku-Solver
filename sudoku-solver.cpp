@@ -239,6 +239,7 @@ int main () {
     int a = 1;
     while (a) {
         int ans;
+        printBoard(arr);
         cout << "1. Play game" << endl;
         cout << "2. View solution" << endl;
         cout << "3. Exit" << endl;
